@@ -1,0 +1,66 @@
+
+	body 
+		{font: small/ 1.6em Verdana, Helvetica, Arial, sans-serif;}
+	body a:link {color: #007e7e;} 
+	body a:visited {color: #003400;} 
+		{font: small/ 1.6em Verdana, Helvetica, Arial, sans-serif;}
+	h1,h2{	      color:       #007e7e}	
+    h1 {font-size:150%;}
+	h3 {font-size:130%;}
+	#guarantee {font-family:      Georgia, Times New Roman, Times, serif;
+	            font-size:        110%;
+		        color:            #444444;
+				line-height:      1.9em;
+				border-color:     white;
+	            border-width:     medium;
+                border-style:     dashed;
+				border-top-right-radius:    2em;
+				border-bottom-left-radius:    2em;
+				background-color: #a7cece;
+                padding:          25px;
+                padding-left:     80px;
+				margin:			  40px;	
+				margin-right:	  250px;
+				background-image: url(images/background.gif);
+				background-repeat:no-repeat;
+				background-position: ;
+				}
+       p#footer {color:red}
+	   #elixirs {
+		        color:             #000000;
+				border-width:      1px;
+				border-style:      solid;
+				border-color:      #007e7e;
+				padding:           25px;
+                width:  		   20%;	
+				
+				padding-right:     20px;
+                padding-bottom:    20px;
+                padding-left:      20px;
+
+                margin:            20px;
+
+                background-image:  url(images/cocktail.gif);
+				background-repeat: repeat-x;
+				
+				text-align:        center;
+            	
+                line-height:       1;	
+                float:             right;				
+	   }
+	   #elixirs h2 {color:         black;}
+	   #elixirs h3 {color:         #d12c47;}
+	   	   #elixirs a:link {color:         #007e7e;}
+		   #elixirs a:visited {color:         #333333;}
+		   #elixirs a:hover {background:         #f88396; color: #0d5353;}
+	   #copyright {font-size:      50%;
+	               text-align:     center;
+                   line-height:    normal;
+                   margin-top:         30px; 				   }
+       .cd {font-style: italic;}
+	 
+	   .artist {font-weight: bold;}
+	   
+	   a:link {color:        green;}
+	   a:visited {color:     red;}
+       a:hover {color:yellow;}	
